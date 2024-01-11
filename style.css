@@ -1,0 +1,43 @@
+body {
+  min-height: 4000px;
+}
+
+.jumbotron {
+  padding-top: 10rem;
+  font-family: "Times New Roman", Times, serif;
+  background-color: grey;
+  background-image: url(img/sapi.jpg);
+  background-size: 700px;
+  height: 670px;
+}
+.about {
+  background-image: url(img/foto2.jpeg);
+  background-color: whitesmoke;
+}
+.col h2 {
+  margin: 5%;
+}
+.title p {
+  margin: 5%;
+  font-size: 25px;
+}
+#product {
+  background-color: whitesmoke;
+}
+.carousel-item img {
+  height: 900px;
+  width: 10px;
+  background-size: 100px;
+}
+#contact {
+  background-color: whitesmoke;
+}
+.mb-3-3 {
+  background-color: whitesmoke;
+  margin-left: 350px;
+  padding: 15px;
+  border-radius: 10px;
+}
+section {
+  padding-top: 5rem;
+}
